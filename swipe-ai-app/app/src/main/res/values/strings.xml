@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeAI</string>
+    <string name="counter_button">Increment Counter</string>
+</resources> 
